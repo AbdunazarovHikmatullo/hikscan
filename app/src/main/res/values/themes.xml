@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Hikscan" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/text_main_light</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/bg_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Hikscan" parent="Base.Theme.Hikscan" />
+
+    <style name="ToolbarTitleStyle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

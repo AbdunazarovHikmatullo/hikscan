@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Palette (Soft & Neutral) -->
+    <color name="bg_light">#FAFAFA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_main_light">#1A1A1A</color>
+    <color name="text_sub_light">#666666</color>
+    <color name="accent_light">#455A64</color> <!-- Blue Gray -->
+
+    <!-- Dark Palette (Deep & Soft) -->
+    <color name="bg_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_main_dark">#E0E0E0</color>
+    <color name="text_sub_dark">#999999</color>
+    <color name="accent_dark">#90A4AE</color>
+
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="appicon_background">#4C3986</color>
+    <color name="appiconv2_background">#4C3986</color>
+</resources>
